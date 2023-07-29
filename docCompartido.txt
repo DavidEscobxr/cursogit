@@ -1,4 +1,6 @@
 El ajedrez no es un deporte, los siguientes si son deportes:
 
+- baloncesto
+- futbol
 - tenis
--
+- ...
